@@ -1,4 +1,4 @@
-# EVM puzzles
+# Solve "EVM puzzles"
 
 sorce: https://github.com/fvictorio/evm-puzzles
 
