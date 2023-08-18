@@ -1,6 +1,6 @@
 # Solve "EVM puzzles"
 
-sorce: https://github.com/fvictorio/evm-puzzles
+source: https://github.com/fvictorio/evm-puzzles
 
 ## How to play
 
